@@ -1,1 +1,7 @@
-blabla
+Name: Ayaulym
+
+I have done additional steps for this project:
+- Added malware as a suspicious keyword,
+- Modified the suspicious hidden message,
+- Improved the GitHub Actions workflow name,
+- Updated the README documentation.
